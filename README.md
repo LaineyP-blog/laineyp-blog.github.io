@@ -1,2 +1,2 @@
 Visit the blog at:
-[](https://laineyp-blog.github.io)
+[My blog](https://laineyp-blog.github.io)
