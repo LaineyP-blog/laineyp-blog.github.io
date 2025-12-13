@@ -1,7 +1,5 @@
 ---
 layout: home
-title: The Lainey Log
-subtitle: Sharing my travels in Sweden.
 ---
 
 ## Welcome to The Lainey Log!
