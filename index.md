@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Lainey's Sweden Blog
+title: The Lainey Log
 subtitle: Sharing my travels in Sweden.
 ---
 
-# Welcome!
+# Welcome to my blog!
 
 Here I'll write about my travels in Sweden and throughout Europe during my 2026 semester abroad!
 
