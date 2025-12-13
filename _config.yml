@@ -5,3 +5,6 @@ baseurl: ""
 url: "https://laineyp-blog.github.io"
 
 theme: minima
+
+minima:
+  skip_dimmed_tag_list: true
